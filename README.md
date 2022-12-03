@@ -3,7 +3,7 @@
   <p>- 💼 I’m currently working on WEG
   <p>- 🗿 Industrial Programming of Information Systems - MI72 - 2022/2024
   <p>- 📜 Java, JavaScript
-  <p>- 📬 gabriel__fellipe
+  <p>- 📬 @gabriel__fellipe
   <p>- 🎈 17 years old
   <p> - 🥇 “Your time is limited, so don't waste it living someone else's life. - Steve Jobs
   
