@@ -5,7 +5,7 @@
   <p>- 📜 Java, JavaScript
   <p>- 📬 @gabriel__fellipe
   <p>- 🎈 17 years old
-  <p> - 🥇 “Your time is limited, so don't waste it living someone else's life. - Steve Jobs
+  <p> - 🥇 “Your time is limited, so don't waste it living someone else's life" - Steve Jobs
   
   <hr>
 
