@@ -27,8 +27,8 @@
   <img align="center" alt="Rafa-CSS" height="" width="" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,java,angular,)](https://skillicons.dev">
   </div>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmarquardt&" alt="devmarquardt" /></p>
+<div align="center" style="display: inline_block">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmarquardt&" alt="devmarquardt" /></p>
 </div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmarquardt&label=Profile%20views&color=0e75b6&style=flat" alt="devmarquardt" /> </p>
   </div>
