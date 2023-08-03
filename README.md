@@ -1,6 +1,6 @@
 # Olá Mundo, me chamo Gabriel Fellipe Marquardt
 
-  <p>- 💼 I’m currently working on WEG
+  <p>- 💼 I’m currently working at WEG
   <p>- 🗿 Industrial Programming of Information Systems - MI72 - 2022/2024
   <p>- 📜 Java, JavaScript, Typescript
   <p>- 📬 @gabriel__fellipe
