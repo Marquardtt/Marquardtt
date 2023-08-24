@@ -23,7 +23,7 @@
   <div><br/>
 
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="DevMarquardt" height="" width="" src="https://skillicons.dev/icons?i=,js,ts,html,css,react,nextjs,tailwind,java,angular,)](https://skillicons.dev">
+  <img align="center" alt="DevMarquardt" height="" width="" src="https://skillicons.dev/icons?i=,js,ts,html,css,react,nextjs,tailwind,java,)](https://skillicons.dev">
   </div>
 <br>
 <div align="center" style="display: inline_block">
