@@ -10,15 +10,13 @@
 
 
 <div align="center">
-  
-  ![Marquardt GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marquardtt&show_icons=true&theme=highcontrast)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marquardtt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   <div><br/>
 
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Marquardtt" height="" width="" src="https://skillicons.dev/icons?i=,js,ts,html,css,react,nextjs,tailwind,java,)](https://skillicons.dev">
+  <img align="center" alt="Marquardtt" height="" width="" src="https://skillicons.dev/icons?i=,js,ts,python,java,spring,nextjs,tailwind,html,css,)](https://skillicons.dev">
   </div>
 <br>
 <div align="center" style="display: inline_block">
