@@ -4,7 +4,7 @@
   <p>- 🗿 Industrial Programming of Information Systems - MI72 - 2022/2024
   <p>- 📬 @_marquardtt
   <p>- 🎈 18 years old
-  <p> - 🥇 “Your time is limited, so don't waste it living someone else's life" - Steve Jobs
+  <p>- 🥇 be better.
   
   <hr>
 
