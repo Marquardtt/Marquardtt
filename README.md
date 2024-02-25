@@ -1,8 +1,6 @@
 # Olá Mundo, me chamo Gabriel Fellipe Marquardt
 
   <p>- 💼 I’m currently working at WEG
-  <p>- 🗿 Industrial Programming of Information Systems - MI72 - 2022/2024
-  <p>- 📬 @_marquardtt
   <p>- 🎈 18 years old
   <p>- 🥇 be better.
   
