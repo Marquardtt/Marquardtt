@@ -21,7 +21,14 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marquardtt&" alt="Marquardtt" /></p>
 </div>
 <br>
-  <p align="center" style="display: inline_block"> <img src="https://komarev.com/ghpvc/?username=Marquardtt&label=Profile%20views&color=0e75b6&style=flat" alt="Marquardtt" /> </p>
+  <p align="center" style="display: inline_block"> <img src="https://komarev.com/ghpvc/?username=Marquardtt&label=Profile%20views&color=0e75b6&style=flat" alt="Marquardtt" /p>
   </div>
+<div align="center">
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tv3wvbviuuxucw6iflag0wyel)
+  
+</div>
+
+  
   <hr>
 
