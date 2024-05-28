@@ -24,11 +24,7 @@
   <p align="center" style="display: inline_block"> <img src="https://komarev.com/ghpvc/?username=Marquardtt&label=Profile%20views&color=0e75b6&style=flat" alt="Marquardtt" /p>
   </div>
 <div align="center">
-
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tv3wvbviuuxucw6iflag0wyel)
   
 </div>
-
-  
   <hr>
 
