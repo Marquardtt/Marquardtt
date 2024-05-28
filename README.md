@@ -14,7 +14,7 @@
   <div><br/>
 
   <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Marquardtt" height="" width="" src="https://skillicons.dev/icons?i=,js,ts,python,java,spring,nextjs,tailwind,html,css,)](https://skillicons.dev">
+  <img align="center" alt="Marquardtt" height="" width="" src="https://skillicons.dev/icons?i=,js,ts,java,spring,nextjs,tailwind,html,css,)](https://skillicons.dev">
   </div>
 <br>
 <div align="center" style="display: inline_block">
