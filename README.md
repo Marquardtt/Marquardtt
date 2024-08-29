@@ -1,7 +1,7 @@
 # Olá Mundo, me chamo Gabriel Fellipe Marquardt
 
   <p>- 💼 I’m currently working at WEG
-  <p>- 🎈 18 years old
+  <p>- 🎈 19 years old
   <p>- 🥇 be better.
   
   <hr>
