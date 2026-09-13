@@ -1,16 +1,11 @@
 # Olá Mundo, me chamo Gabriel Fellipe Marquardt
 
   <p>- 💼 I’m currently working at WEG
-  <p>- 🎈 20 years old
+  <p>- 🎈 21 years old
   <p>- 🥇 be better.
   
   <hr>
 
-
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marquardtt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
   <div><br/>
 
   <div align="center" style="display: inline_block"><br>
